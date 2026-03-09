@@ -1,1 +1,0 @@
-# aurora-bot-docs
